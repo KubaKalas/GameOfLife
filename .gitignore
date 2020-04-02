@@ -1,0 +1,9 @@
+*.json
+*.dll
+*.pdb
+*.cache
+*.txt
+*.props
+*.targets
+*.cs
+!Program.cs
